@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fingerprint/auth_screen.dart';
+import 'package:flutter_fingerprint/view/auth/auth_screen.dart';
 
 void main() {
   runApp(const MyApp());
